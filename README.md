@@ -5,9 +5,6 @@ This repository contains a Vehicle Rental Management System with a React fronten
 Maintainer
  - Akshay Kumar
 
-Important notes
- - The frontend UI is adapted from Material Dashboard 2 React by Creative Tim. Original license and credits are preserved in `frontend/LICENSE.md`.
- - Backend `.env` may contain database credentials; do not commit secrets to public repos. I did not modify any `.env` values.
 
 Run locally
 
@@ -28,12 +25,7 @@ npm install
 npm start
 ```
 
-If you see errors when running `npm start` in the frontend, please paste the terminal error output here and I'll fix the specific issue.
-
 Files of interest
 - `backend/` — Express API, controllers, models
-- `frontend/` — React app (UI adapted by Akshay Kumar)
-- `CONTRIBUTORS.md` — Maintainers and credits
-
-
+- `frontend/` — React app 
 
